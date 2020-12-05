@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 20201205001
-! Checksum: YZZ0RcO25aS0AzmqaiM7xQ
+! Version: 20201205002
+! Checksum: oVZ3Pt1rpUwcmepIf6AegQ
 ! Title: Pokoj svätý
 ! Expires: 1 days
 ! Homepage: https://github.com/sk-juroot/pokoj-svaty
