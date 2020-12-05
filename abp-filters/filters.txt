@@ -25,3 +25,10 @@ sme.sk#?#li.teraz-box-item:-abp-has(>a:-abp-contains(Matovi))
 sme.sk#?#li:-abp-has(>span>a>span.tab-item-link:-abp-contains(Matovi))
 sme.sk#?#div.author:-abp-has(>div>a:-abp-contains(Matovi))
 sme.sk#?#a.tvsme-media:-abp-has(>div>h3:-abp-contains(Matovi))
+!
+! Aktuality.sk
+!
+aktuality.sk#?#article:-abp-has(>div>h3>a:-abp-contains(Matovi))
+aktuality.sk#?#article:-abp-has(>div>div>h3>a:-abp-contains(Matovi))
+aktuality.sk#?#li:-abp-has(>div.list-item-wrapper>span>a:-abp-contains(Matovi))
+aktuality.sk#?#div.timeline-post-container:-abp-has(>div>div>a:-abp-contains(Matovi))
