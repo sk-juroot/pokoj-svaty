@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 20201205005
+! Version: 20201205006
 ! Title: Pokoj svätý
 ! Expires: 1 days
 ! Last modified: 2020-12-05
@@ -15,6 +15,7 @@ dennikn.sk#?#article:-abp-has(>div>a>h3:-abp-contains(Matovi))
 dennikn.sk#?#article:-abp-has(>div>div>p:-abp-contains(Matovi))
 dennikn.sk#?#article:-abp-has(>div>div>p>a:-abp-contains(Matovi))
 dennikn.sk#?#article:-abp-has(>a>h3:-abp-contains(Matovi))
+dennikn.sk#?#article:-abp-has(>div>nav>a:-abp-contains(Matovi))
 !
 ! SME.sk
 !
@@ -22,3 +23,5 @@ sme.sk#?#div.media:-abp-has(>div>h2:-abp-contains(Matovi))
 sme.sk#?#div.media:-abp-has(>div>p:-abp-contains(Matovi))
 sme.sk#?#li.teraz-box-item:-abp-has(>a:-abp-contains(Matovi))
 sme.sk#?#li:-abp-has(>span>a>span.tab-item-link:-abp-contains(Matovi))
+sme.sk#?#div.author:-abp-has(>div>a:-abp-contains(Matovi))
+sme.sk#?#a.tvsme-media:-abp-has(>div>h3:-abp-contains(Matovi))
