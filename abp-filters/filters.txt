@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 20201205003
+! Version: 20201205004
 ! Title: Pokoj svätý
 ! Expires: 1 days
-! Last modified:
+! Last modified: 2020-12-05
 ! Homepage: https://github.com/sk-juroot/pokoj-svaty
 ! Licence: https://github.com/sk-juroot/pokoj-svaty/blob/main/LICENSE
 !
-dennikn.sk#?#aside:-abp-has(>div>p>a:-abp-contains(Matovič))
-dennikn.sk#?#aside:-abp-has(>div>p:-abp-contains(Matovič))
+dennikn.sk#?#aside:-abp-has(>div>p>a:-abp-contains(Matovi))
+dennikn.sk#?#aside:-abp-has(>div>p:-abp-contains(Matovi))
